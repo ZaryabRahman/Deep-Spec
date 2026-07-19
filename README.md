@@ -20,7 +20,6 @@ Extensive evaluations demonstrate that our framework resolves multimodal attribu
 Install the package directly from PyPI for regular use, or clone the repository for development and benchmarking:
 
 ```bash
-# Standard installation
 pip install deep-spec
 ```
 
