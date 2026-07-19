@@ -22,11 +22,6 @@ Install the package directly from PyPI for regular use, or clone the repository 
 ```bash
 # Standard installation
 pip install deep-spec
-
-# Or for reproducing experiments (editable mode)
-git clone https://github.com/YourUsername/Deep-Spec.git
-cd Deep-Spec
-pip install -e 
 ```
 
 
