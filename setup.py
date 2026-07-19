@@ -11,7 +11,7 @@ setup(
     description="Unentangling Vision-Language Models via Spectral Bipartite Graph Partitioning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YourUsername/Deep-Spec",
+    url="https://github.com/ZaryabRahman/Deep-Spec",
     packages=find_packages(exclude=["tests*", "experiments*"]),
     install_requires=[
         "numpy>=1.20.0",
