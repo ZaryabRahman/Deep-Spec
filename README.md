@@ -26,7 +26,8 @@ pip install deep-spec
 # Or for reproducing experiments (editable mode)
 git clone https://github.com/YourUsername/Deep-Spec.git
 cd Deep-Spec
-pip install -e .
+pip install -e 
+```
 
 
 
@@ -62,9 +63,8 @@ image = Image.open("sample_image.jpg")
 composite = overlay_heatmap(image, heatmap, alpha=0.5, colormap="jet")
 composite.show()
 
+```
 
-
----
 
 
 ## Citation
