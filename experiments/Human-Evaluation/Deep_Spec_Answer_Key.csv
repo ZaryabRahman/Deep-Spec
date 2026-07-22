@@ -1,0 +1,51 @@
+Image_Index,Target_Noun,Prompt,Option_A,Option_B,Option_C,Option_D
+1,dining table,The dining table near the kitchen has a bowl of fruit on it.,Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM,Deep-Spec (Ours)
+2,person,a person with a shopping cart on a city street ,Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM,Attn x Grad (Chefer)
+3,person,A person on a skateboard and bike at a skate park.,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM
+4,motorcycle,The shiny motorcycle has been put on display.,Attn x Grad (Chefer),ViT-Grad-CAM,Attention Rollout,Deep-Spec (Ours)
+5,toilet,A row of white toilets sitting on top of a dirt ground.,Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM,Attn x Grad (Chefer)
+6,toilet,A small closed toilet in a cramped space.,Deep-Spec (Ours),Attn x Grad (Chefer),Attention Rollout,ViT-Grad-CAM
+7,motorcycle,People are walking and riding motorcycles on the street,Attn x Grad (Chefer),Deep-Spec (Ours),Attention Rollout,ViT-Grad-CAM
+8,person,a person sitting at a desk with a keyboard and monitor ,Attn x Grad (Chefer),Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout
+9,vase,"A building wall and pair of doors that are open, along with vases of flowers on the outside of the building.",Attn x Grad (Chefer),Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout
+10,chair,A fluffy white chair that faces away fro a television.,ViT-Grad-CAM,Attention Rollout,Deep-Spec (Ours),Attn x Grad (Chefer)
+11,boat, a bench sitting in the grass facing the water and boats ,Attn x Grad (Chefer),Attention Rollout,ViT-Grad-CAM,Deep-Spec (Ours)
+12,car,Several cars are parked in front of a building.,Attention Rollout,Deep-Spec (Ours),Attn x Grad (Chefer),ViT-Grad-CAM
+13,bus,A political candidate advertisement on the side of a coach bus.,Attn x Grad (Chefer),Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM
+14,bus,A bus traveling down a curvy road behind a black car.,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+15,car,Two buses parked in a parking lot next to cars.,Attn x Grad (Chefer),ViT-Grad-CAM,Attention Rollout,Deep-Spec (Ours)
+16,bus,A bus traveling on a freeway next to other traffic.,Attn x Grad (Chefer),Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM
+17,giraffe,two giraffes are standing together outside a barn,Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM,Attn x Grad (Chefer)
+18,bird,Three birds walking around a dry grass field.,ViT-Grad-CAM,Attn x Grad (Chefer),Deep-Spec (Ours),Attention Rollout
+19,train,A train traveling down tracks next to lights.,Attn x Grad (Chefer),Deep-Spec (Ours),Attention Rollout,ViT-Grad-CAM
+20,train,A train going back to its coarse filled with people.,Deep-Spec (Ours),Attention Rollout,ViT-Grad-CAM,Attn x Grad (Chefer)
+21,stop sign,A stop sign has been placed upside-down in the grass beside a building. ,ViT-Grad-CAM,Deep-Spec (Ours),Attn x Grad (Chefer),Attention Rollout
+22,stop sign,a stop sign sittin on a pole that is somewhat broken ,ViT-Grad-CAM,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer)
+23,stop sign,A stop sign is lit up in the dark of night.,Attention Rollout,Deep-Spec (Ours),Attn x Grad (Chefer),ViT-Grad-CAM
+24,dog,A dog and cat lying  together on an orange couch. ,ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer),Deep-Spec (Ours)
+25,cat,Two cats sitting on top of a pair of shoes.,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+26,cat,A cat laying on clothes that are in a suitcase. ,Attention Rollout,Deep-Spec (Ours),Attn x Grad (Chefer),ViT-Grad-CAM
+27,cow,two cows outside one laying down and the other standing near a building ,Deep-Spec (Ours),Attention Rollout,ViT-Grad-CAM,Attn x Grad (Chefer)
+28,tv,An orange and white cat standing in front of a flat screen TV,Attention Rollout,ViT-Grad-CAM,Deep-Spec (Ours),Attn x Grad (Chefer)
+29,cat,A cat sitting beside a laptop on a desk.,Attention Rollout,Deep-Spec (Ours),Attn x Grad (Chefer),ViT-Grad-CAM
+30,elephant,some elephants and one is by some water,Attention Rollout,Deep-Spec (Ours),ViT-Grad-CAM,Attn x Grad (Chefer)
+31,boat,there are two large boats that are in the water ,ViT-Grad-CAM,Attn x Grad (Chefer),Attention Rollout,Deep-Spec (Ours)
+32,elephant,An elephant standing under the shade of a tree.,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+33,umbrella,A black and white image with a colored british flag umbrella,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+34,elephant,There is an elephant standing near a tree.,Attention Rollout,Attn x Grad (Chefer),Deep-Spec (Ours),ViT-Grad-CAM
+35,umbrella,THERE ARE WOMEN THAT ARE LAUGHING UNDER THE UMBRELLA,Attention Rollout,ViT-Grad-CAM,Attn x Grad (Chefer),Deep-Spec (Ours)
+36,dog,A woman standing next to a  brown and white dog.,ViT-Grad-CAM,Deep-Spec (Ours),Attn x Grad (Chefer),Attention Rollout
+37,bird,a polar bear following a big winged bird,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+38,zebra,A zebra all by itself in the green forest.,Deep-Spec (Ours),Attention Rollout,ViT-Grad-CAM,Attn x Grad (Chefer)
+39,zebra,An antilope is eating grass in between two zebra.,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM
+40,zebra,A zebra standing on top of a grass covered field.,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM
+41,zebra,Two zebras fighting in a cloud of dust,ViT-Grad-CAM,Attn x Grad (Chefer),Deep-Spec (Ours),Attention Rollout
+42,horse,A couple of jockey's riding the horses through the beach.,Deep-Spec (Ours),ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer)
+43,horse,There is a white horse pulling a trolley behind it.,Attn x Grad (Chefer),ViT-Grad-CAM,Deep-Spec (Ours),Attention Rollout
+44,horse,A big and white horse in a dirt cage. ,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM
+45,person,A person is trying to ski down a snowy slope.,Deep-Spec (Ours),Attn x Grad (Chefer),ViT-Grad-CAM,Attention Rollout
+46,bowl,"A bowl of banana's, sprinkels, chocolate chips, and marshmellows.",ViT-Grad-CAM,Attention Rollout,Attn x Grad (Chefer),Deep-Spec (Ours)
+47,broccoli,A plate is filled with broccoli and noodles.,ViT-Grad-CAM,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer)
+48,person,A person in a helmet is riding a skateboard.,ViT-Grad-CAM,Deep-Spec (Ours),Attn x Grad (Chefer),Attention Rollout
+49,skateboard,"Youngster on a skateboard, trying simple tip up stunt.",ViT-Grad-CAM,Attn x Grad (Chefer),Deep-Spec (Ours),Attention Rollout
+50,person,A person on a skateboard rides down a ramp.,Deep-Spec (Ours),Attention Rollout,Attn x Grad (Chefer),ViT-Grad-CAM
